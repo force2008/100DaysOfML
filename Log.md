@@ -1,10 +1,18 @@
 # 100 Days Of ML - LOG
 
-## Day 0 : June 30 , 2018
+## Day 0 : Augest 09 , 2018
  
-**Today's Progress** : I have setup all the things I needed to complete this challenge and also completed chosing the projects I will work on .
+**Today's Progress** : 
+- set up environment
+- learned iloc method in python array [:, -1]
+- learned Imputer to fill null data in dataset
+- learned LabelEncoder to convert string map to number
+- learned OneHotEncoder to convert data array into unique binary byte, one value represent on set data;
+- learned train_test_split  to slite date into training and test data set
+- learned StandardScaler to normilize data into data near zero
 
-**Thoughts** : Hope this will be exiciting ,will help me in learning Machine Learning in a more effective way .
+**Thoughts** : 
+need to known more python library in ML.
 
 ## Day 1 : Jul 1 , 2018
 
